@@ -1,0 +1,1 @@
+v=DMARC1;p=none;rua=mailto:b5844781f3@rua.easydmarc.us;ruf=mailto:b5844781f3@ruf.easydmarc.us;fo=1;
